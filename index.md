@@ -3,3 +3,5 @@ Namen:
 Jacco
 luka
 Emre
+
+workflow: gitflow
